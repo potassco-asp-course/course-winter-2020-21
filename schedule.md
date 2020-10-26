@@ -19,4 +19,4 @@
 
 ## Week 2
 
-* Monday at Zoom: Questions about Exercise 1
+* Monday at Zoom: Questions about Introduction and Exercise 1
