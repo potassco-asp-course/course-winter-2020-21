@@ -9,7 +9,7 @@
 
 ## Week 1
 
-* Live Session on Monday: Administration
+* Monday at Zoom: Administration
 
 * Content:
   - Introduction (Video + Slides)
@@ -19,4 +19,4 @@
 
 ## Week 2
 
-* ...
+* Monday at Zoom: Questions about Exercise 1
